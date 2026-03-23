@@ -204,16 +204,16 @@ const sol = `
 *✧༺ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐/𝒂 ✦༻✧*
 
 💌 「 Hola @${num.split('@')[0]} 🌟 y bienvenido/a al reino de *${grup}* 」
-🥂 Que tu estancia esté llena de risas, buena charla 🗨 y algunas subidas de estrellas ⭐💎
+🥂 Que tu estancia esté llena de alegria, buenos chismes 🗨 y algunas subidas de estrellas de rango ⭐💎
 
-📜 Recuerda mirar nuestras reglas para no comerte un biri bir ban ban 🔥☠️
+📜 Recuerda mirar las reglas para no comerte un biri bir ban ban 🔥☠️
  
 『 👥 Miembros actuales: ${mem} 』
 ✦━─⌬༓༒༓⌬─━✦
 `
 
 await sock.sendMessage(anu.id, {
-  image: { url: "https://i.ibb.co/HDf3hw9J/20250702-214923.jpg" },
+  image: { url: "https://i.ibb.co/SDXK98VC/cffce8d2-8dc8-4729-bc68-3370c7ddd822.png" },
   caption: sol,
   mentions: [num]  // 👈 Aquí haces la mención real
 })
@@ -227,7 +227,7 @@ if (anu.action == 'promote') {
 
 🪪 𝗡𝗼𝗺𝗯𝗿𝗲: @${num.split('@')[0]}
 🌐 𝗚𝗿𝘂𝗽𝗼: ${metadata.subject}
-💌 「 ¡Enhorabuena! 🎉 Has ascendido a la mesa de los administradores 🪄 」
+💌 「 ¡Enhorabuena! 🎉 Has ascendido a la mesa de los Dioses 🪄 」
 
 ✦━─┈༓༒༓┈─━✦
 `
