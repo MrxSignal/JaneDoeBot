@@ -204,9 +204,9 @@ const sol = `
 *✧༺ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐/𝒂 ✦༻✧*
 
 💌 「 Hola @${num.split('@')[0]} 🌟 y bienvenido/a al reino de *${grup}* 」
-🥂 Que tu estancia esté llena de risas, buena charla 🗨 y alguna que otra copa de hidromiel 🍯🍺
+🥂 Que tu estancia esté llena de risas, buena charla 🗨 y algunas subidas de estrellas ⭐💎
 
-📜 Recuerda echarle un ojo a nuestras reglas para no invocar a los dragones 🐉🔥
+📜 Recuerda mirar nuestras reglas para no comerte un biri bir ban ban 🔥☠️
  
 『 👥 Miembros actuales: ${mem} 』
 ✦━─⌬༓༒༓⌬─━✦
