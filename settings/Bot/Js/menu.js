@@ -155,8 +155,6 @@ return `
 ╭
     ❍ 𝐌𝐄𝐍𝐔 𝐂𝐑𝐄𝐀𝐃𝐎𝐑  ❐
 ╰  
-*➢sercreador*
-> ➥Como convertirte en dueño
 *➢antiprivado*            
 > ➥No aseptar personas en tu privado
 *➢revelarvisu*
