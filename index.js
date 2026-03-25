@@ -204,16 +204,26 @@ const sol = `
 *✧༺ 𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐/𝒂 ✦༻✧*
 
 💌 「 Hola @${num.split('@')[0]} 🌟 y bienvenido/a al reino de *${grup}* 」
-🥂 Que tu estancia esté llena de alegria, buenos chismes 🗨 y algunas subidas de estrellas de rango ⭐💎
+Nos alegra tenerte aquí 💬
 
-📜 Recuerda mirar las reglas para no comerte un biri bir ban ban 🔥☠️
+📌 Reglas básicas:
+• Respeta a todos los miembros 🤝
+• No spam 🚫
+• Mantén el tema del grupo 📢
+
+💡 Preséntate para conocerte mejor 😊
+
+👑 Dueño: MrxSignal
+🤖 Bot activo las 24/7
+
+¡Disfruta tu estancia! 🚀
  
 『 👥 Miembros actuales: ${mem} 』
 ✦━─⌬༓༒༓⌬─━✦
 `
 
 await sock.sendMessage(anu.id, {
-  image: { url: "https://i.ibb.co/SDXK98VC/cffce8d2-8dc8-4729-bc68-3370c7ddd822.png" },
+  image: { url: "https://i.postimg.cc/SKgZgyzb/Gemini-Generated-Image-ur7tfrur7tfrur7t.png" },
   caption: sol,
   mentions: [num]  // 👈 Aquí haces la mención real
 })
@@ -231,7 +241,7 @@ if (anu.action == 'promote') {
 
 ✦━─┈༓༒༓┈─━✦
 `
-  await sock.sendMessage(anu.id,{image : { url : "https://i.postimg.cc/0ygy14nq/20251017-152852.jpg" }, caption : teks})
+  await sock.sendMessage(anu.id,{image : { url : "https://i.postimg.cc/Pf912GL1/unnamed-(4).jpg" }, caption : teks})
     }
 
 } 
